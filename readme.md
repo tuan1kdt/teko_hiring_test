@@ -1,6 +1,7 @@
 # Instruction
 
-Resolve TEKO Hiring Test 
+Resolve TEKO Hiring Test.
+Implement based on `Sliding window log algorithm`
 
 # Build
 ```
